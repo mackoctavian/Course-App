@@ -1,6 +1,6 @@
 # Responsive Landing Page Course Website
 
-Build a Responsive Landing Page Course Website using React JS & TailwindCSS
+Building a Responsive Landing Page Course Website using React JS & TailwindCSS
 
 
 ![Course Website](./public/Course%20Website.png)
